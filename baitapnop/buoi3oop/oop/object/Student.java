@@ -1,7 +1,12 @@
 package java16.baitapnop.buoi3oop.oop.object;
 
 import java.util.Scanner;
-
+/*
+ * Mục đích: Xử lý các thuộc tính trong lớp
+ * Người tạo: Trần Kim Phú
+ * Ngày tạo: 15/12/2021
+ * Version: 1.0
+ * */
 public class Student {
 	/* Properties */
 	private String studentName;
